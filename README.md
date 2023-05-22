@@ -14,7 +14,6 @@ To create the API, we utilize the Mangum package for AWS Lambda integration. The
 ![Step 1.5](img/2.png)
 ![Step 1.55](img/3.png)
 ![Step 1.7](img/4.png)
-![Step 1.9](img/5.png)
 
 Start the lambda function
 
@@ -40,11 +39,13 @@ zip api.zip -u main.py
 ![Step 3](img/7.png)
 
 
+Here make sure the httpmethod is the right one for me it was GET 
+Provide the path too for me it was "/data"
+
 ![Step 3](img/8.png)
 
 
-After deploying the code to AWS Lambda, test the API using the provided endpoints. You can use tools like curl, Postman, or directly access the API endpoints.
-
+After deploying the code to AWS Lambda, test the API using the provided endpoints. 
 
 
 
