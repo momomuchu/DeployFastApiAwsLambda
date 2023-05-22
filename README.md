@@ -55,13 +55,13 @@ After deploying the code to AWS Lambda, test the API using the provided endpoint
 
 ![Step 4](img/9.png)
 
-![Step 4](img/10.png)
 
 ![Step 4](img/11.png)
 
+![Step 4](img/12.png)
 
-Step 4: Optional - Create a URL using the URL configuration
-Step 4
+
+
 
 If desired, configure a URL for the API using services like AWS API Gateway. This step enables you to expose the API through a public URL.
 
@@ -72,17 +72,14 @@ If desired, configure a URL for the API using services like AWS API Gateway. Thi
 
 
 
-
-
-Step 5: Enjoy Your Work!
-Step 5
+# Step 5: Enjoy Your Work!
 
 Congratulations! Your FastAPI API is now deployed on AWS Lambda and ready to be used. Enjoy the benefits of serverless architecture!
 
+
+![Step 4](img/15.png)
+
 For more information on FastAPI and Mangum, refer to their respective documentation.
-![Step 4](img/12.png)
-
-
 
 In this version, steps 2 and 3 are combined into a single code block, providing instructions for creating the zip file and uploading it to AWS Lambda. The images for step 2 and 3 are placed accordingly.
 
